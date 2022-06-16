@@ -1,4 +1,6 @@
 # AngularPipeSearch
 
-the filter pipe in the angular. FIltering the list of data with the search string in Angular.
+The filter pipe in the angular. 
+
+Filtering the list of data with the search string in Angular.
 
